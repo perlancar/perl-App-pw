@@ -1,5 +1,12 @@
 Revision history for App-upf
 
+0.02    2015-03-06 (PERLANCAR)
+
+        - No functional changes.
+
+        - Minor tweaks, rebuild against Unix::Passwd::File 0.15.
+
+
 0.01    2015-03-06 (PERLANCAR)
 
         - First release.
