@@ -1,4 +1,4 @@
-0.04    2015-09-03 (PERLANCAR)
+0.04    2015-09-03  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -7,7 +7,7 @@
 	  requirement.
 
 
-0.03    2015-03-13 (PERLANCAR)
+0.03    2015-03-13  Released-By: PERLANCAR
 
         - No functional changes.
 
@@ -15,13 +15,13 @@
           Perinci::Sub::ArgEntity::* (for shell completion purposes).
 
 
-0.02    2015-03-06 (PERLANCAR)
+0.02    2015-03-06  Released-By: PERLANCAR
 
         - No functional changes.
 
         - Minor tweaks, rebuild against Unix::Passwd::File 0.15.
 
 
-0.01    2015-03-06 (PERLANCAR)
+0.01    2015-03-06  Released-By: PERLANCAR
 
         - First release.
