@@ -2,3 +2,4 @@ App-upf-*
 .build
 *~
 nytprof*
+.DS_Store
